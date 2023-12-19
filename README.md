@@ -1,2 +1,3 @@
 # js-modal
-# https://app.netlify.com/sites/simple-modal-1/configuration/general
+# https://simple-modal-1.netlify.app/
+
